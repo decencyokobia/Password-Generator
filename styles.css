@@ -68,12 +68,15 @@ body {
     padding: 0.5rem 2rem;
     width: 150px;
     font-size: 1rem;
-    background-color: hsl(0, 100%, 80%);
+    background-color: hsl(0, 100%, 60%);
     border: none;
     border-radius: 1rem;
+    font-weight: bold;
+    color: white;
 }
 
 .btn:hover {
     background-color: hsl(0, 100%, 95%);
     cursor: pointer;
+    color: black;
 }
